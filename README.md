@@ -35,4 +35,4 @@ Este projeto não requer instalação de dependências ou um servidor.
 
 ## 🎥 Preview da Animação
 
-**[Link para ver a animação em ação](https://drive.google.com/file/d/1__sOLFltkwDoZT90J_3Fgjd3Kz5f5I7w/view?usp=sharing)**
+**[Link para ver a animação em ação](https://drive.google.com/file/d/1TvPzEAXe7xUX8u0c_APPr89RGQZpowA5/view?usp=sharing)**
